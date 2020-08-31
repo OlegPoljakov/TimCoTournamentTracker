@@ -1,0 +1,20 @@
+D:\С#\Tournament Tracker Project\TournamentTrcaker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
+D:\С#\Tournament Tracker Project\TournamentTrcaker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+D:\С#\TournamentTrackerProject\TournamentTraсker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
+D:\С#\TournamentTrackerProject\TournamentTraсker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+D:\С#\TournamentTrackerProject\TournamentTraсker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+D:\С#\TournamentTrackerProject\TournamentTraсker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+D:\С#\TournamentTrackerProject\TournamentTraсker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+D:\С#\TournamentTrackerProject\TournamentTraсker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
+D:\С#\TournamentTrackerProject\TournamentTraсker\TrackerLibrary\bin\Debug\Dapper.dll
+D:\С#\TournamentTrackerProject\TournamentTraсker\TrackerLibrary\bin\Debug\Dapper.xml
+D:\С#\TournamentTrackerProject\TournamentTraсker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
+I:\PROGRAMMING\TournamentTrackerProject\TournamentTraсker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+I:\PROGRAMMING\TournamentTrackerProject\TournamentTraсker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+I:\PROGRAMMING\TournamentTrackerProject\TournamentTraсker\TrackerLibrary\bin\Debug\Dapper.dll
+I:\PROGRAMMING\TournamentTrackerProject\TournamentTraсker\TrackerLibrary\bin\Debug\Dapper.xml
+I:\PROGRAMMING\TournamentTrackerProject\TournamentTraсker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
+I:\PROGRAMMING\TournamentTrackerProject\TournamentTraсker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+I:\PROGRAMMING\TournamentTrackerProject\TournamentTraсker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
+I:\PROGRAMMING\TournamentTrackerProject\TournamentTraсker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+I:\PROGRAMMING\TournamentTrackerProject\TournamentTraсker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
